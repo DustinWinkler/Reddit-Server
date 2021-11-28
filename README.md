@@ -11,5 +11,6 @@ BCrypt for secure password storage and validation.
 
 I have left my JS migration file in for posterity. Building a custom script to migrate from what was previously a Firebase backend was an incredible challenge and was very rewarding to accomplish.
 
-[Frontend](https://github.com/Jalcyon/Reddit-Clone)
+[Frontend Code](https://github.com/Jalcyon/Reddit-Clone)
+
 [AWS Deployed APP](http://54.184.99.80/)
